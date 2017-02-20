@@ -17,14 +17,13 @@ img{
 }
 
 .h2Att{
-	font-size: 2em;
+	font-size: 1.5em;
 	font-family: 'Lato', sans-serif;
 }
 .Lato{
 	font-size: 1.5em;
 	font-family: 'Lato', sans-serif;
 }
-
 
 a{
 	color:#009FFF;
@@ -57,7 +56,7 @@ a{
 .grande{
 	font-size: 3em;
 }
-#color-menu{
 
+#color-menu{
 	background-color: #efe4c1;
 }
